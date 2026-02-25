@@ -7,12 +7,10 @@ Pokazuje trendy w PKB, oczekiwanej długości życia i populacji dla różnych k
 
 ## Technologie
 - HTML  
-- CSS (opcjonalnie)  
 - EDA: Gapminder dataset  
 
 ## Uruchomienie
-Otwórz plik `index.html` w przeglądarce, aby zobaczyć interaktywną wizualizację.
+Otwórz plik `EDA.html` w przeglądarce, aby zobaczyć interaktywną wizualizację.
 
 ## Pliki w repo
-- `index.html` – interaktywna wizualizacja  
-- `data/` – (opcjonalnie) pliki CSV z Gapminder
+- `EDA.html` – interaktywna wizualizacja  
