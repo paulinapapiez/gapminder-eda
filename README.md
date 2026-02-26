@@ -65,7 +65,7 @@ The project addresses:
 
 ## ▶️ How to View
 
-Open `index.html` in your browser to view the full analytical report.
+Open `EDA.html` in your browser to view the full analytical report.
 
 ---
 
