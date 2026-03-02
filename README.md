@@ -69,8 +69,4 @@ Open `EDA.html` in your browser to view the full analytical report.
 
 ---
 
-## 👩‍💻 Author
 
-Paulina Papież  
-Computer Science & Econometrics student  
-Open to junior data / IT opportunities
